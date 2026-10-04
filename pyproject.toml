@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tcta-engine"
+version = "0.1.0"
+description = "TCTA engine core: SR/Transform/Trajectory, Omega(C), SPREAD/ALGORITHM_SELECT, HDRP's Phi, COMPLIANCE checks, and the .tcta file parser. Gamma/Psi (OGSI) are pluggable interfaces only -- no domain-specific implementation."
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["tcta_engine*"]
+namespaces = false
+
+[tool.setuptools]
+py-modules = []
