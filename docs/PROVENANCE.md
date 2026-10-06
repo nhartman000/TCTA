@@ -86,8 +86,6 @@ It intentionally excludes:
 
 Potential conceptual overlap with another architecture does not, by itself, establish derivation, inventorship, ownership, or joint development.
 
-## Canonical Technical Document
+## Current Canonical Documents
 
-The current narrative/formal baseline is maintained in:
-
-[`VOLUME_1_TECHNICAL_AND_MANAGEMENT.md`](VOLUME_1_TECHNICAL_AND_MANAGEMENT.md)
+The current mathematical volumes are [Volume I](VOLUME_I_FORMAL_FOUNDATIONS.md) and [Volume II](VOLUME_II_TCTA_PREFIX_REDUCTION.md). The older mixed `VOLUME_1_TECHNICAL_AND_MANAGEMENT.md` remains in Git history and is preserved verbatim in the prepared Theory of Intelligence source archive. Its presence in the historical baseline does not make ontological claims premises of the current mathematics.
